@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "015F1DFA1E277EAB3FE52FFF7DF80DA738B619D8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "015F1DFA1E277EAB3FE52FFF7DF80DA738B619D8" : 9223372036854775807,
+    "33957C29712743BF8A51E40841ABE5A0416C40F6" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2C7C5A1A-AE14-4D5E-888D-88C83A1AC1FA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "015F1DFA1E277EAB3FE52FFF7DF80DA738B619D8" : "JimmyCapstone\/",
+    "33957C29712743BF8A51E40841ABE5A0416C40F6" : "..\/Desktop\/Team-62%20Backup%204"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Digidex iOS - Main File",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Digidex iOS - Main File.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.iu.edu\/micschaf\/Capstone.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "015F1DFA1E277EAB3FE52FFF7DF80DA738B619D8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.iu.edu\/INFO-Capstone-2017\/Team-62.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "33957C29712743BF8A51E40841ABE5A0416C40F6"
+    }
+  ]
+}
